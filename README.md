@@ -2,7 +2,6 @@
 
 [Link of video of product without music](https://drive.google.com/file/d/1LufDS_0_cVAkBcuPqc1lE6mvSjEpvwR_/view?usp=sharing)
 
-<Video src="https://drive.google.com/file/d/1LufDS_0_cVAkBcuPqc1lE6mvSjEpvwR_/view?usp=sharing" />
 ![product image](https://drive.google.com/file/d/1iymz6FTBXDlWgI8xNG3Q3_rpuWS1wxdE/view?usp=sharing)
 
 
