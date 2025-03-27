@@ -2,8 +2,6 @@
 
 [Link of video of product without music](https://drive.google.com/file/d/1LufDS_0_cVAkBcuPqc1lE6mvSjEpvwR_/view?usp=sharing)
 
-![product image](https://drive.google.com/file/d/1iymz6FTBXDlWgI8xNG3Q3_rpuWS1wxdE/view?usp=sharing)
-
 ![scene40800](https://github.com/user-attachments/assets/03188291-c26c-4e6a-bc61-2a150e8b6418)
 
 # Please DO NOT add this audio content to the Youtube Content ID System. I have used background music which is owned by FesliyanStudios.
