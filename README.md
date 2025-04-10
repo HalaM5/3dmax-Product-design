@@ -1,6 +1,7 @@
 <h1 align="center">Product design Project</h1>
 
- 
+<p>Project contains on product perfume and its packages and animation of perfume and packages.</p>
+
 ### Used 3d Max student version 2025
 [Link of 3d max folder for product design](https://drive.google.com/drive/folders/18whbIPtGyKf84e7hxLkdwa-WQ4h-mXxv?usp=drive_link)
 
